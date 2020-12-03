@@ -14,7 +14,7 @@ class MonpremierController extends AbstractController
 {   // définition de notre méthode qui va retourner un objet de classe Response
     // cette méthode là sera un controller et sera appelé comme le précise le fichier routes.yaml
     // lorsqu'on voudra accéder à la route /lucky/number
-    
+    //test
     
     /**
       * @Route("/lucky/number")
